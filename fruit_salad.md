@@ -53,17 +53,17 @@ Go back to master, create a new branch called berries, and add three types of be
 Push berries to the remote
 
 
-Go back to master, create a new branch called tropical_fruits, and add three types of tropical fruit here:
+Go back to master, create a new branch called ICE COOL SUMMER SALAD, and add three types of REFRESHING SUMMER SALAD VEGETABLES here:
 
-1.
-2.
-3.
-
-
-Push tropical_fruits to the remote
+1. TOMATO
+2. CUCUMBER
+3. ICEBERG LETTUCE
 
 
-Go back to master. The last task is to make sure master has all the fruits listed above, and no vegetables!
+Push DELICIOUS SUMMER SALAD to the remote
+
+
+Go back to master. The last task is to make sure master has all the fruits listed above, and ~~no~~ YES vegetables!
 
 
 
