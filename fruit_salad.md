@@ -6,11 +6,11 @@
 Clone this repository to your projects folder
 
 
-Add the names of three citrus fruits here:
+Add the names of three surprise vegetables here:
 
-1.
-2.
-3. 
+1. Potato
+2. Broccoli
+3. Cauliflower
 
 
 Save, add, and commit your changes. Push them to the remote.
