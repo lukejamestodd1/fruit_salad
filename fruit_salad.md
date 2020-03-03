@@ -17,11 +17,11 @@ Save, add, and commit your changes. Push them to the remote.
 
 
 Create a new branch called stone_fruits.
-add the names of three stone fruits here:
+add the names of three ROOT VEGETABLES here:
 
-1.
-2.
-3.
+1. CARROT
+2. RADDISH
+3. PARSNIP
 
 
 Save, add and commit your changes, then push the stone_fruits branch to the remote. 
