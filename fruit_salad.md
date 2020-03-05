@@ -63,7 +63,7 @@ Go back to master, create a new branch called troical_fruits, and add three type
 Push THIS DELICIOUS SUMMER FRUIT SALAD to the remote
 
 
-Go back to master. The last task is to make sure master has all the fruits listed above, and no vegetables!
+Go back to master. The last task is to make sure master has all the fruits listed above, and no vegetables!!
 
 
 
