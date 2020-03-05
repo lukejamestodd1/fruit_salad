@@ -8,9 +8,9 @@ Clone this repository to your projects folder
 
 Add the names of three citrus fruits here:
 
-1.
-2.
-3. 
+1. Orange
+2. Lemon
+3. Lime
 
 
 Save, add, and commit your changes. Push them to the remote.
