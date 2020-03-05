@@ -8,9 +8,9 @@ Clone this repository to your projects folder
 
 Add the names of three SURPRISE VEGETABLES here:
 
-1. POTATO
-2. BROCCOLI
-3. CAULIFLOWER
+1. Lemon
+2. Lime
+3. Orange
 
 
 Save, add, and commit your changes. Push them to the remote.
@@ -19,9 +19,9 @@ Save, add, and commit your changes. Push them to the remote.
 Create a new branch called stone_fruits.
 add the names of three ROOT VEGETABLES here:
 
-1. CARROT
-2. RADDISH
-3. PARSNIP
+1. Mango
+2. Plum
+3. Apricot
 
 
 Save, add and commit your changes, then push the stone_fruits branch to the remote. 
