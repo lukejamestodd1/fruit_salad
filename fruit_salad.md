@@ -50,7 +50,7 @@ Go back to master, create a new branch called ALLIUM VEGETABLES, and add three t
 3. LEEK
 
 
-Push PUNGENT ALLIUMS to the remote
+Push berries to the remote
 
 
 Go back to master, create a new branch called troical_fruits, and add three types of tropical fruit here:
@@ -60,11 +60,10 @@ Go back to master, create a new branch called troical_fruits, and add three type
 3. Guava 
 
 
+Push THIS DELICIOUS SUMMER FRUIT SALAD to the remote
 
-Push THIS DELICIOUS SUMMER SALAD to the remote
 
-
-Go back to master. The last task is to make sure master has all the fruits listed above, and ~~no~~ YES vegetables!
+Go back to master. The last task is to make sure master has all the fruits listed above, and no vegetables!
 
 
 
