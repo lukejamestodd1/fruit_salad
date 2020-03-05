@@ -6,11 +6,11 @@
 Clone this repository to your projects folder
 
 
-Add the names of three surprise vegetables here:
+Add the names of three SURPRISE VEGETABLES here:
 
-1. Potato
-2. Broccoli
-3. Cauliflower
+1. POTATO
+2. BROCCOLI
+3. CAULIFLOWER
 
 
 Save, add, and commit your changes. Push them to the remote.
