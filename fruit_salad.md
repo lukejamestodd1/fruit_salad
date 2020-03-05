@@ -17,11 +17,11 @@ Save, add, and commit your changes. Push them to the remote.
 
 
 Create a new branch called stone_fruits.
-add the names of three stone fruits here:
+add the names of three ROOT VEGETABLES here:
 
-1. Mango
-2. Peach
-3. Plum
+1. CARROT
+2. RADDISH
+3. PARSNIP
 
 
 Save, add and commit your changes, then push the stone_fruits branch to the remote. 
@@ -33,11 +33,11 @@ Great! Now we have two branches locally, and two on the remote. Your code is up 
 Go back to master, and merge stone_fruits into master, and push master back to the remote again. Now master should have citrus and stone fruits, on both loacal and remote.
 
 
-Create a new branch called melons, and add three types of melon here:
+Create a new branch called melons, and add three types of LEAFY GREENS here:
 
-1.
-2.
-3.
+1. SPINACH
+2. SILVERBEET
+3. LETTUCE
 
 
 push the melons to the remote
