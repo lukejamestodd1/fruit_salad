@@ -53,24 +53,18 @@ Go back to master, create a new branch called ALLIUM VEGETABLES, and add three t
 Push PUNGENT ALLIUMS to the remote
 
 
-Go back to master, create a new branch called ICE COOL SUMMER SALAD, and add three types of REFRESHING SUMMER SALAD VEGETABLES here:
+Go back to master, create a new branch called troical_fruits, and add three types of tropical fruit here:
 
-<<<<<<< HEAD
-1. TOMATO
-2. CUCUMBER
-3. ICEBERG LETTUCE
-=======
 1. Banana
 2. Coconut
 3. Guava 
->>>>>>> tropical_fruits
+
 
 
 Push THIS DELICIOUS SUMMER SALAD to the remote
 
 
 Go back to master. The last task is to make sure master has all the fruits listed above, and ~~no~~ YES vegetables!
-
 
 
 
