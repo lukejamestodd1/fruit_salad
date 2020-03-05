@@ -19,9 +19,9 @@ Save, add, and commit your changes. Push them to the remote.
 Create a new branch called stone_fruits.
 add the names of three stone fruits here:
 
-1.
-2.
-3.
+1. Mango
+2. Peach
+3. Plum
 
 
 Save, add and commit your changes, then push the stone_fruits branch to the remote. 
