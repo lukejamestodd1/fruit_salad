@@ -35,15 +35,9 @@ Go back to master, and merge stone_fruits into master, and push master back to t
 
 Create a new branch called melons, and add three types of LEAFY GREENS here:
 
-<<<<<<< HEAD
 1. Watermelon
 2. Honeydew
 3. Cantaloupe
-=======
-1. SPINACH
-2. SILVERBEET
-3. LETTUCE
->>>>>>> 5097d81b0b31dffa428239fdd265022df78d6293
 
 
 push the melons to the remote
