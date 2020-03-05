@@ -33,7 +33,7 @@ Great! Now we have two branches locally, and two on the remote. Your code is up 
 Go back to master, and merge stone_fruits into master, and push master back to the remote again. Now master should have citrus and stone fruits, on both loacal and remote.
 
 
-Create a new branch called melons, and add three types of LEAFY GREENS here:
+Create a new branch called melons, and add three types of melons here:
 
 1. Watermelon
 2. Honeydew
@@ -57,7 +57,7 @@ Go back to master, create a new branch called tropical_fruits, and add three typ
 
 1. Banana
 2. Coconut
-3. Guava
+3. Guava 
 
 
 Push tropical_fruits to the remote
