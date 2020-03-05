@@ -43,27 +43,28 @@ Create a new branch called melons, and add three types of melons here:
 push the melons to the remote
 
 
-Go back to master, create a new branch called ALLIUM VEGETABLES, and add three types of AROMATIC ALLIUMS here:
+Go back to master, create a new branch called berries, and add three types of berries here:
 
-1. ONION
-2. GARLIC
-3. LEEK
+1. Strawberry
+2. Blueberry
+3. Blackberry
 
 
 Push berries to the remote
 
 
-Go back to master, create a new branch called troical_fruits, and add three types of tropical fruit here:
+Go back to master, create a new branch called tropical_fruits, and add three types of tropical fruit here:
 
 1. Banana
 2. Coconut
-3. Guava 
+3. Guava
 
 
-Push THIS DELICIOUS SUMMER FRUIT SALAD to the remote
+Push tropical_fruits to the remote
 
 
-Go back to master. The last task is to make sure master has all the fruits listed above, and no vegetables!!
+Go back to master. The last task is to make sure master has all the fruits listed above, and no vegetables!
+
 
 
 
