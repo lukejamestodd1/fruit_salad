@@ -55,9 +55,9 @@ Push berries to the remote
 
 Go back to master, create a new branch called tropical_fruits, and add three types of tropical fruit here:
 
-1.
-2.
-3.
+1. Banana
+2. Coconut
+3. Guava
 
 
 Push tropical_fruits to the remote
