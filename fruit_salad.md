@@ -6,7 +6,7 @@
 Clone this repository to your projects folder
 
 
-Add the names of three SURPRISE VEGETABLES here:
+Add the names of three citrus fruits here:
 
 1. Lemon
 2. Lime
@@ -17,7 +17,7 @@ Save, add, and commit your changes. Push them to the remote.
 
 
 Create a new branch called stone_fruits.
-add the names of three ROOT VEGETABLES here:
+add the names of three stone fruit here:
 
 1. Mango
 2. Plum
