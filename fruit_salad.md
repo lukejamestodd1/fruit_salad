@@ -108,7 +108,7 @@ From master, create a new branch called tropical_fruits, and add three types of 
 
 Push tropical_fruits branch to the remote.
 
-Go back to master and pull the latest changes. 
+Go back to master, merge it in and attempt to push like before.
 
 The last task is to make sure master has all the fruits listed above, and no vegetables!
 
