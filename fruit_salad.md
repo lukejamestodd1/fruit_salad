@@ -46,9 +46,16 @@ Add the names of three stone fruits here:
 Save, add and commit your changes, then push the stone_fruits branch to the remote. 
 
 
-Great! Now we have two branches locally, and two on the remote. 
-Your code is up to date with the remote. 
-Master should have 3 citrus fruits listed and stone_fruits should have 3 stone fruits.
+Great! Now we have two branches locally, and two on the remote.
+
+to see a list of branches you have locally:
+
+```
+git branch
+```
+Your code is now up to date with the remote
+Master should have 3 citrus fruits listed
+stone_fruits should have 3 stone fruits
 
 ## 4. Merging branches
 Go back to your master branch, and merge stone_fruits into master, and push master back to the remote again.
