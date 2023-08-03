@@ -1,4 +1,4 @@
-# Learn Git by Making Fruit Salad!
+# Learn Git by Making a Fruit Salad
 ### Practice makes perfect
 #### Save, add, commit, checkout, merge, push, pull, and repeat
 
