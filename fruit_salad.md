@@ -53,9 +53,9 @@ to see a list of branches you have locally:
 ```
 git branch
 ```
-Your code is now up to date with the remote
-Master should have 3 citrus fruits listed
-stone_fruits should have 3 stone fruits
+Your code is now up to date with the remote.
+Master should have 3 citrus fruits listed.
+stone_fruits should have 3 stone fruits.
 
 ## 4. Merging branches
 Go back to your master branch, and merge stone_fruits into master, and push master back to the remote again.
