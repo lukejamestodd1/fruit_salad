@@ -9,7 +9,8 @@ Clone this repository to your projects folder:
 ```
 git clone https://github.com/lukejamestodd1/fruit_salad.git
 ```
-
+See a list of useful git commands here:
+https://www.hostinger.com/tutorials/basic-git-commands
 
 ## 2. Adding changes
 
